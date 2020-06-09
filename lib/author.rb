@@ -1,4 +1,4 @@
-class Artist
+class Authorlearn
 
   attr_accessor :name
 
